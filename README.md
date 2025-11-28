@@ -1,48 +1,69 @@
-# 👋 Hi, I'm Dhanushuya Ezhilarasan!
+👋 Hi, I'm Dhanushuya Ezhilarasan
+🚀 About Me
 
-## 🚀 About Me
-I'm an aspiring **Data Analyst** passionate about uncovering insights from data and creating impactful visualizations.  
-I enjoy exploring datasets, cleaning and transforming data, and applying analytical techniques to solve real-world problems.
+I’m an aspiring Data Analyst passionate about transforming raw data into meaningful and actionable insights.
+I have completed structured, hands-on training in Data Analysis through the Entri Elevate Platform, where I gained strong practical skills in Python, SQL, Excel, Power BI, and end-to-end project execution.
 
-## 🎯 Current Focus
-- 🔭 Working on: *Marketing Campaign Performance Insights*  
-- 🌱 Learning: PySpark, Power BI, and Advanced Data Visualization  
-- 💡 Interested in: Data Science, Web Scraping, and Machine Learning
+I enjoy exploring datasets, performing EDA, building dashboards, and using analytical thinking to solve real-world problems.
 
-## 🧠 Skills
-- **Languages:** Python, SQL, HTML  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Scikit-learn  
-- **Tools:** Jupyter Notebook, Google Colab, Power BI, GitHub, Excel  
-- **Concepts:** Data Cleaning, EDA (Exploratory Data Analysis), Data Visualization, Web Scraping, Machine Learning Basics
+🎯 What I’m Working On
 
-## 📂 Featured Projects
-🏥 **Excel Capstone Project – Healthcare Analysis and Insights**  
-  Analyzed healthcare data to identify trends, performance metrics, and improvement areas using Excel tools and charts.  
+🔭 Current Main Project: Predicting Survival Outcome of Cirrhosis Patients
+Using Python for preprocessing and modeling, and Power BI for interactive dashboard visualization
 
-- ☕ **Mini Project – Coffee Sales Performance**  
-  Used **Excel** and **Power BI** for data cleaning, visualization, and dashboard creation to analyze coffee sales and revenue insights.  
+🌱 Learning: PySpark, Advanced Power BI, Machine Learning
 
-- 🛒 **MySQL Capstone Project – E-Commerce Customer Churn Analysis**  
-  Explored customer behavior data using MySQL queries to identify churn patterns and retention opportunities.  
+💡 Interests: Healthcare Analytics, Machine Learning, Web Scraping
 
-- 🐍 **Python Fundamentals Capstone Project – Survey Feedback Analyzer**  
-  Developed a Python-based solution to analyze survey data, clean text feedback, and summarize key responses for decision-making.  
+🧠 Skills & Tools
 
-- 📊 **HR Employee Attrition Analysis** 
-  Explored employee data to find key factors affecting retention  
+Languages: Python, SQL, HTML
 
-- 🌐 **Web Scraping & Data Analysis** 
-  Extracted data from websites using BeautifulSoup and performed trend analysis
-    
-- 📈 **Marketing Campaign Insights**
-  Analyzed conversion rates, acquisition costs, and ROI across different marketing channels
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Scikit-learn
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhanushuya-da&show_icons=true&theme=tokyonight)
+Tools: Google Colab, Jupyter Notebook, Power BI, Excel, GitHub
 
-## 💬 Connect With Me
-- 📧 Email: dhanushuyaezhilarasan@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/dhanushuya-ezhilarasan-](https://www.linkedin.com/in/dhanushuya-ezhilarasan-)  
+Core Competencies: Data Cleaning, EDA, Dashboarding, Web Scraping, ML Basics
 
-⭐ **Thanks for visiting my profile! Let’s connect and grow together!**
-# Entri
+📂 Featured Projects
+🩺 Cirrhosis Survival Outcome Prediction (Ongoing)
+
+Conducting exploratory analysis, preprocessing, model development, and Power BI dashboard creation.
+
+📈 Marketing Campaign Performance Insights (Completed)
+
+Evaluated marketing KPIs, conversion trends, customer acquisition costs, and overall ROI.
+
+🏥 Excel Capstone – Healthcare Analysis
+
+Analyzed healthcare KPIs and created summary dashboards for insight extraction.
+
+☕ Coffee Sales Performance (Excel + Power BI)
+
+Performed sales trend analysis and built interactive reports for business insights.
+
+🛒 MySQL Capstone – E-Commerce Churn
+
+Explored customer behavior and identified churn influencers using SQL queries.
+
+🐍 Python Survey Feedback Analyzer
+
+Cleaned text responses and generated sentiment-based insights.
+
+👥 HR Employee Attrition Analysis
+
+Explored retention patterns and highlighted key drivers of attrition.
+
+🌐 Web Scraping & Data Analysis
+
+Scraped structured data using BeautifulSoup and applied analytical techniques.
+
+📊 GitHub Stats
+
+💬 Connect With Me
+
+📧 Email: dhanushuyaezhilarasan@gmail.com
+
+💼 LinkedIn: linkedin.com/in/dhanushuya-ezhilarasan-
+
+⭐ Thanks for visiting my profile! Let’s connect and grow together!
